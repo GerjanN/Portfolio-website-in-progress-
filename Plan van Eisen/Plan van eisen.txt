@@ -1,0 +1,22 @@
+Plan:
+moodboard maken 
+wireframe(s) maken 
+prototype maken
+begin website maken
+
+
+Must have
+landing
+about me
+projecten
+contact
+landingspagina moet responsive
+
+Should have
+animaties
+de rest responsive
+
+Could have
+skills
+
+Uiteindelijk besloten om onepager te maken dus alles moet responsive.
