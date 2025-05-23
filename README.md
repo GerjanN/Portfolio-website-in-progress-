@@ -29,4 +29,4 @@ Deze website is gemaakt als portfolio om mijn werk te laten zien. Ik had bijna m
 
 ### Gebruik
 
-    Open Apache en ga naar de public folder. Als dat goed is gegaan heb je nu de website voor je.
+    Open de config.php en vul je database informatie daar in. Open daarna Apache en ga naar de public folder. Als dat goed is gegaan heb je nu de website voor je.
