@@ -2,8 +2,6 @@
 
 Deze website is gemaakt als portfolio om mijn werk te laten zien. Ik had bijna meteen besloten om de website met html en tailwind te maken aangezien ik met tailwind de meeste ervaring heb.
 
-Ik had aan het begin van de 
-
 ### Features
 
 - **Responsive ontwerp**: De website past zich aan verschillende schermformaten aan.
